@@ -29,8 +29,7 @@ Reference: [Sequelize Docs](https://sequelize.org/docs/v6/getting-started/)
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sequelize-demo.git
-cd sequelize-demo
+git clone https://github.com/arjun-dholakiya/sequelize-demo.git
 ```
 
 ### 2️⃣ Install Dependencies
